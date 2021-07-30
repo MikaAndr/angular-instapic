@@ -7,4 +7,20 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'FirstProject';
+
+  numberOfLikes : number = 1;
+
+  likeButtonClick() {
+    this.numberOfLikes++;
+  }
+
+  dislikeButtonClick() {
+    this.numberOfLikes--;
+  }
+
+  comment = "IMTICIA 5 Mikaiah";
+
+  post(){
+    this.comment = "Its Working";
+  }
 }

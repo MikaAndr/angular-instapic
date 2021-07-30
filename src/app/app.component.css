@@ -1,0 +1,175 @@
+body{
+    color: black;
+}
+h1,h2{
+    color: rgb(19, 19, 20);
+    text-align: center;
+    font-size: 25px;
+}
+h2 span {
+    font-size: 25px;
+}
+span{
+    color: rgb(212, 54, 54);
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.esp{
+    letter-spacing: .08rem;
+}
+.boribory p {
+    color: black;
+    text-align: center;
+}
+p.col {
+    font-size: 10px;
+}
+.ctr {
+    display: flex;
+    align-items: center;
+    margin: 0 12px;
+}
+.pp{
+    height: 22px;
+    width: 22px;
+    border-radius:100%;
+    border: 2px solid rgb(253, 255, 254);
+    
+}
+.st {
+    border-radius: 4px;
+    border: 2px solid rgb(220, 223, 221);
+}
+.Sary {
+    height: 613px;
+    width: 613px;
+    margin-right: 550px;
+}
+.Master {
+    margin: 0 225px;
+    margin-right: 550px;
+    width: 613px;
+}
+.DD{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.DD input{
+    align-items: center;
+}
+input .rch {
+    border-color: hotpink;
+}
+.ACT {
+    padding-bottom: 9px;
+}
+.FF {
+    margin: 0 12px;
+}
+.tmp{
+    font-size: 10px;
+    color: rgb(126, 123, 123);
+}
+.comment{
+    display: flex;
+}
+div img.profil {
+    height: 56px;
+    width: 56px;
+    border-radius:100%;
+    border: 3px solid rgba(30, 184, 211, 0.856);
+}
+div .ctr .esp {
+    padding-left: 12px;
+}
+.DD .ctr img{
+    height: 30px;
+    width: 30px;
+}
+div.Base{
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    margin: auto;
+    padding: 0;
+    border: 2px solid rgb(172, 177, 175);
+    border-top-color:white ;
+    border-left-color: white;
+    border-right-color: white;
+    background-color: white;
+   }
+
+Div.AO{
+     display: flex;
+     justify-content: space-between;
+     flex-direction: row;
+     margin: 0 225px;
+     height: 50px;
+   }
+div.story {
+    display: flex;
+    letter-spacing: .05em;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+}
+div.boribory img{
+    margin: 0 15px;
+    MARGIN-LEFT: 1.5px;
+}
+p{
+    font-size: 13px;
+}
+div .smile img{
+    height: 30px;
+    width: 30px;
+}
+div .FF img{
+    height: 24px;
+    width: 24px;
+}
+form {
+    display: flex;
+    border: 2px solid rgb(192, 196, 194);
+    border-bottom-color:white ;
+    border-left-color: white;
+    border-right-color: white;
+    background-color: white;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.Ypffh {
+    resize: none;
+    width: 500px;
+    color: #1e201e;;
+}
+button{
+    background:0 0;
+    border: 0;
+}
+.FF a img {
+    height: 30px;
+    width: 30pX;
+}
+div button img{
+    height: 30px;
+    width: 30px;
+    border: none;
+}
+.ment input {
+    border: none;
+    background: none;
+    width: 324px;
+    height: 65px;
+}
+.DD div button a {
+    height: 30px;
+    width: 30px;
+}
+input{
+    border: none;
+}
